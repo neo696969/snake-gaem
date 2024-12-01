@@ -17,3 +17,5 @@
 This game is impossible to beat, To win the game, Reach 200 Score level.
 
 All you need is Python. I wrote this in Python 3.11, so I'd recommend you [install that version](https://www.python.org/downloads/release/python-311/). However, later versions should work too.
+
+# V2.0
