@@ -9,10 +9,11 @@
     </a>
 </div>
 
-## How do you use the scripts?
-
-Simply [Launch](Setup.bat)!
+## How do you play?
+#1. Make sure you installed Python (Important)
+#2. Simply [Launch](Setup.bat)!
+#3. Run SnakeGaem.exe
 
 This game is impossible to beat, To win the game, Reach 200 Score level.
 
-All you need is Python. I wrote this in Python 3.10.6, so I'd recommend you [install that version](https://www.python.org/downloads/release/python-3106/). However, later versions should work too.
+All you need is Python. I wrote this in Python 3.11, so I'd recommend you [install that version](https://www.python.org/downloads/release/python-311/). However, later versions should work too.
