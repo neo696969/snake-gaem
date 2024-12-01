@@ -10,9 +10,9 @@
 </div>
 
 ## How do you play?
-#1. Make sure you installed Python (Important)
-#2. Simply [Launch](Setup.bat)!
-#3. Run SnakeGaem.exe
+1. Make sure you installed Python (Important)
+2. Simply [Launch](Setup.bat)!
+3. Run SnakeGaem.exe
 
 This game is impossible to beat, To win the game, Reach 200 Score level.
 
