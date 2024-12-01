@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="assets/logo.png"width="30px"><br>Snake Gaem</h1>
+    <h1><img src="GoldenApple.png"width="30px"><br>Snake Gaem</h1>
     <h3>Simple snake game, An impossible one.</h3>
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-bluesvg)](https://www.python.org/download/releases/3.0/)
